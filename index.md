@@ -21,6 +21,6 @@ Ciricculum Vitae coming soon.&emsp;
 </p>
 
 <p>
-<a href="https://ml-branch.github.io/test.md">test</a>
+<a href="https://ml-branch.github.io/test">test</a>
 </p>
 
