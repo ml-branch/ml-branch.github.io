@@ -15,9 +15,13 @@ c. 2024 06 03
 This site is currently a place-holder.&emsp;More information will be coming soon.&emsp;
 </p>
 
+<!--
+
 <p>
 Support my independent research on <a href="https://ko-fi.com/ml_branch">Ko-fi</a>.&emsp;
 </p>
+
+-->
 
 <p>
 I can found elsewhere at...&emsp;
@@ -35,14 +39,14 @@ Ciricculum Vitae coming soon.&emsp;
 
 
 <p>
-<a href="https://ml-branch.github.io/test" >Hidden link test?</a>
+<a href="https://ml-branch.github.io/test" class=HiddenLink>Hidden link test?</a>
 </p>
 
 
 
 
 <!--
-class=HiddenLink
+
 <p>
 <a href="https://ml-branch.github.io/test">test</a>
 </p>
