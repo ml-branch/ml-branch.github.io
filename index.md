@@ -1,3 +1,12 @@
+
+
+<style>
+    .HiddenLink  {
+        display: none;
+    }
+</style>
+
+
 <h1>
 c. 2024 06 03
 </h1>
@@ -19,6 +28,14 @@ I can found elsewhere at...&emsp;
 <p>
 Ciricculum Vitae coming soon.&emsp;
 </p>
+
+
+<p>
+<a href="https://ml-branch.github.io/test" class=HiddenLink>Hidden link test?</a>
+</p>
+
+
+
 
 <!--
 
