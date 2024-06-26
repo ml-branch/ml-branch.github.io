@@ -3,5 +3,7 @@ title: Malcolm L Branch
 
 theme: jekyll-theme-slate
 
+include: [ index.md , cnvrt.html , test.html ]
+
 #  theme: jekyll-theme-slate
 #  theme: jekyll-theme-tactile
