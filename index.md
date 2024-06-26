@@ -3,7 +3,7 @@
 
 
 <html>
-<html lang="en", style="background-color:LightGray">
+<html lang="en">
 
 
 <style>
