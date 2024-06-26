@@ -38,7 +38,7 @@ Ciricculum Vitae coming soon.&emsp;
 </p>
 
 <p>
-<a href="https://ml-branch.github.io/converter" class=HiddenLink>...conversions page...</a>
+<a href="https://ml-branch.github.io/cnvrt" class=HiddenLink>...conversions page...</a>
 </p>
 
 <p>
