@@ -64,13 +64,16 @@
 </section>
 
 
+</body>
+
+
 <footer>
     <p>
     The contents of this website are &copy; 2024, Malcolm L. Branch.&emsp;
     </p>
 </footer>
 
-</body>
+
 
 
 </html>
